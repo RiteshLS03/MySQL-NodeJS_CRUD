@@ -8,3 +8,5 @@ const mysqlPool = mysql2.createPool({
 });
 
 module.exports = mysqlPool;
+
+// DATABASE CONNECTIVITY
